@@ -1,0 +1,14 @@
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\bin\Debug\netcoreapp2.1\InvertoryServices.deps.json
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\bin\Debug\netcoreapp2.1\InvertoryServices.runtimeconfig.json
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\bin\Debug\netcoreapp2.1\InvertoryServices.runtimeconfig.dev.json
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\bin\Debug\netcoreapp2.1\InvertoryServices.dll
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\bin\Debug\netcoreapp2.1\InvertoryServices.pdb
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\obj\Debug\netcoreapp2.1\InvertoryServices.csprojAssemblyReference.cache
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\obj\Debug\netcoreapp2.1\InvertoryServices.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\obj\Debug\netcoreapp2.1\InvertoryServices.RazorAssemblyInfo.cache
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\obj\Debug\netcoreapp2.1\InvertoryServices.RazorAssemblyInfo.cs
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\obj\Debug\netcoreapp2.1\InvertoryServices.AssemblyInfoInputs.cache
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\obj\Debug\netcoreapp2.1\InvertoryServices.AssemblyInfo.cs
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\obj\Debug\netcoreapp2.1\InvertoryServices.RazorTargetAssemblyInfo.cache
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\obj\Debug\netcoreapp2.1\InvertoryServices.dll
+C:\Users\Akshay Kumar\source\repos\InvertoryServices\obj\Debug\netcoreapp2.1\InvertoryServices.pdb
